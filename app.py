@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    nombre = "Amor mío"
+    nombre = "Amor míooooooo"
     mensaje = "Eres la razón por la que sonrío cada día ❤️"
 
     html_content = f"""
